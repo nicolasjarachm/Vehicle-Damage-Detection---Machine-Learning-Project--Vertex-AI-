@@ -1,6 +1,5 @@
-## Methodology
+## Results
 
-- Dataset collection and labeling of damaged vehicles.
-- Training performed in Google Cloud Vertex AI AutoML Vision.
-- Classification categories included scratches and dents.
-- Evaluation based on accuracy metrics.
+- Successfully trained a classification model.
+- Dataset size was limited.
+- Model showed potential for automated inspections.
